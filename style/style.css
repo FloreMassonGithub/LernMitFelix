@@ -422,6 +422,7 @@ margin-bottom: -5em;
 
     .cartes{
         grid-template-columns: 1fr;
+        perspective: none;
     }
 }
 
@@ -445,5 +446,9 @@ margin-bottom: -5em;
         display: block;
     }
 
+        .cartes{
+        grid-template-columns: 1fr;
+        perspective: none;
+    }
     
 }
