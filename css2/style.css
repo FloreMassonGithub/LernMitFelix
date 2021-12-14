@@ -22,7 +22,7 @@ html
 @font-face
 {
     font-family: "icomoon";
-    src: url("../police/icone.ttf");
+    src: url("../police2/icone.ttf");
 }
 .icone
 {
@@ -61,7 +61,7 @@ html
 /* header */
 #fond
 {
-    background-image: url("../img/noel.jpg"); 
+    background-image: url("../img2/noel.jpg"); 
 	background-position: center; 
 	background-repeat: no-repeat; 
 	background-size: cover; 
